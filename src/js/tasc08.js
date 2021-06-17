@@ -1,4 +1,4 @@
-import images from './../gallery-items'; 
+import images from '../gallery-items'; 
 
 const refs = {
    gallery: document.querySelector('.js-gallery'),
