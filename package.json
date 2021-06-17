@@ -6,7 +6,7 @@
   "homepage": "https://Konstantin-Kolom.github.io/goit-js-hw-09-gallery",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-09-galler/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-09-gallery/"
 
   },
   "repository": {
