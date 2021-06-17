@@ -85,19 +85,3 @@ document.addEventListener('keydown', (event) => {
       closeModal(event);
    }
 })
-
-//Навигация по картинкам 
-
-
-  
-// function closeOnEscape(callback) {
-//   document.addEventListener('keydown', event => {
-//       if (event.code === 'Escape') {
-//         callback();
-//       }
-//     },
-//     {
-//       once: true,
-//     }
-//   );
-// }
